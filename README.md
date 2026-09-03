@@ -1,12 +1,17 @@
+# Descubra-Brasil
 
-  # Descubra+Brasil
-  Codigo criado para telas de aplicativo no projeto `Descubra +Brasil`
+Telas do aplicativo Descubra+Brasil. Projeto colaborativo (fork de [Augusto-Cezar/Descubra-Brasil](https://github.com/Augusto-Cezar/Descubra-Brasil)).
 
-  Utilizando o Figma Make para auxilio das telas
+## Stack
 
-  ## Running the code
+- TypeScript
+- Vite
 
-  Run `npm i` to install the dependencies.
+## Como rodar localmente
 
-  Run `npm run dev` to start the development server.
-  
+```bash
+git clone https://github.com/EduardoAlkimim/Descubra-Brasil.git
+cd Descubra-Brasil
+npm install
+npm run dev
+```
